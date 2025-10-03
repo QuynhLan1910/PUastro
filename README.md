@@ -1,5 +1,4 @@
 
-</style>
 <header>
     <h1>Theoretical Astrophysics Group</h1>
     <nav>
