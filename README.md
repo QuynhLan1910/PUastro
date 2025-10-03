@@ -32,8 +32,7 @@
         <h2>Group Members</h2>
         <ul>
             <li>Assoc. Prof. Quynh Lan Nguyen - Principal Investigator, Gravitational Waves</li>
-	    <li>Assoc. Prof. Pham Ngoc Diep </li>
-            
+	    <li>Assoc. Prof. Pham Ngoc Diep </li>    
 	    <li>Dr. Peter Lott - Gravitational Waves</li>
             <li>Thao Trang Nguyen - PhD Candidate, LISA Modeling</li>
             <li>Lan Anh Nguyen - PhD Candidate, LISA Modeling</li>
